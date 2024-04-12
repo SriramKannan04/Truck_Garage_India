@@ -1,0 +1,165 @@
+.Truck4
+{
+    height: 610px;
+    width: 100%;
+
+    /* border: 2px solid dodgerblue; */
+    /* margin: 10px 10px 10px 10px; */    
+}
+
+.titleBar4
+{
+    width: 100%;
+    height: 250px;
+
+    border: 2px solid black;
+    background-color: black;
+}
+
+.brand4
+{
+    color: snow;
+    font-family: 'Protest Riot', sans-serif;
+
+    text-align: center;
+    font-size: 40px;
+
+    letter-spacing: 3px;
+    word-spacing: 5px;
+
+    margin-top: 5px;
+}
+
+.brandImg4
+{
+    display: flex;
+    justify-content: center;
+}
+.Eicher
+{
+    width: 470px;
+    height: 250px;
+
+    margin-left: 50px;
+}
+
+
+.EicherContent
+{
+    margin: 20px 20px 20px 20px;
+
+    width: 97%;
+    height: 350px;
+
+    /* border: 2px solid red; */
+
+    display: flex;
+    justify-content: space-between;
+
+    position: relative;
+}
+.EicherLorrybox
+{
+    margin-top: 50px;
+
+    width: 20%;
+    height: 300px;
+
+    /* border: 2px solid darkslateblue; */
+
+    position: relative;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.LorryImg4
+{
+    display: flex;
+    justify-content: center;
+}
+.Eicher1
+{
+  width: 170px;
+  height: 110px;
+
+  margin-top: -150px;
+}
+#eithree
+{
+    width: 120px;
+    height: 100px;
+
+    margin-left: -15px;
+}
+
+.nextbox4
+{
+    width: 100%;
+    height: 120px;
+
+    /* border: 2px solid red; */
+
+    margin-top: -50px;
+}
+.rateBox4
+{
+    text-align: center;
+
+    font-family: 'Aladin', cursive;
+
+    letter-spacing: 1px;
+}
+.rateBox44
+{
+    display: flex;
+    justify-content: space-between;
+
+    font-family: 'Aladin', cursive;
+
+    letter-spacing: 1px;
+}
+
+.back4
+{
+    width: 100%;
+    height: 50px;
+
+    background-color: gold;
+
+    position: absolute;
+
+    bottom: 0;   
+    
+    transition: 0.4s ease-in-out;
+
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.back4:hover
+{
+    height: 220px;
+}
+
+.Explore
+{
+    width: 100px;
+    height: 30px;
+
+    letter-spacing: 2px;
+
+    font-family: 'Alkatra', cursive;
+    color: snow;
+
+    background-color: black;
+    
+    border: 3px solid black;
+    border-radius: 15px;
+    box-shadow: 10px 10px 50px black;
+
+    transition: 0.4s ease-in-out;
+
+    cursor: pointer;
+}

@@ -17,7 +17,7 @@ function MenuBar() {
                   <ul>
                       <li>
                           <p className='truckName'>Tata</p>
-                          <Link to="/TruckTata"><img src="./Images/tataSymbol.png" alt="" srcset="" className='hideLogo' title='Tata Motors'/></Link>
+                          <Link to="/TruckTata"><img src="https://github.com/SriramKannan04/Truck_Garage_India/blob/main/public/Images/tataSymbol.png" alt="" srcset="" className='hideLogo' title='Tata Motors'/></Link>
                       </li>
 
                       <li>

@@ -22,22 +22,22 @@ function MenuBar() {
 
                       <li>
                           <p className='truckName'>Mahindra</p>
-                          <Link to="/TruckMahindra"><img src="./Images/mahindraSymbol.png" alt="" srcset="" className='hideLogo' title='Mahindra & Mahindra Motors'/></Link>
+                          <Link to="/TruckMahindra"><img src="https://github.com/SriramKannan04/Truck_Garage_India/blob/main/public/Images/mahindraSymbol.png" alt="" srcset="" className='hideLogo' title='Mahindra & Mahindra Motors'/></Link>
                       </li>
 
                       <li>
                           <p className='truckName'>Bharat Benz</p>
-                          <Link to="/TruckBharatBenz"><img src="./Images/bharatBenzSymbol.png" alt="" srcset="" className='hideLogo' title='BharatBenz MotorWorks'/></Link>
+                          <Link to="/TruckBharatBenz"><img src="https://github.com/SriramKannan04/Truck_Garage_India/blob/main/public/Images/bharatBenzSymbol.png" alt="" srcset="" className='hideLogo' title='BharatBenz MotorWorks'/></Link>
                       </li>
 
                       <li>
                           <p className='truckName'>Eicher</p>
-                          <Link to="/TruckEicher"><img src="./Images/eicherSymbol.png" alt="" srcset="" className='hideLogo' title='Eicher & Volvo Motors'/></Link>
+                          <Link to="/TruckEicher"><img src="https://github.com/SriramKannan04/Truck_Garage_India/blob/main/public/Images/eicherSymbol.png" alt="" srcset="" className='hideLogo' title='Eicher & Volvo Motors'/></Link>
                       </li>
 
                       <li>
                           <p className='truckName'>Ashok Leyland</p>
-                          <Link to="/TruckAL"><img src="./Images/AshokLeylandSymbol.png" alt="" srcset="" className='hideLogo' id='ashok' title='Ashok Leyland Motors'/></Link>
+                          <Link to="/TruckAL"><img src="https://github.com/SriramKannan04/Truck_Garage_India/blob/main/public/Images/AshokLeylandSymbol.png" alt="" srcset="" className='hideLogo' id='ashok' title='Ashok Leyland Motors'/></Link>
                       </li>
 
                   </ul>

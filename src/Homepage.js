@@ -43,9 +43,9 @@ function Homepage() {
 
           <div className="summa2">
   
-            <Link to='/Contact'> <img src="./Images/support.png" alt="support" srcset="" className='supportImg' title='Contact Us'/> </Link>
-            <Link to='/About'>   <img src="./Images/about.png" alt="about" srcset="" className='supportImg' title='About Sriram'/>   </Link>
-            <Link to='https://trucks.cardekho.com/' target='_blank'> <img src="./Images/order.png" alt="order" srcset="" className='supportImg' title='Wanna See more then tab here..!'/> </Link> 
+            <Link to='/Contact'> <img src="https://github.com/SriramKannan04/Truck_Garage_India/blob/main/public/Images/support.png" alt="support" srcset="" className='supportImg' title='Contact Us'/> </Link>
+            <Link to='/About'>   <img src="https://github.com/SriramKannan04/Truck_Garage_India/blob/main/public/Images/about.png" alt="about" srcset="" className='supportImg' title='About Sriram'/>   </Link>
+            <Link to='https://trucks.cardekho.com/' target='_blank'> <img src="https://github.com/SriramKannan04/Truck_Garage_India/blob/main/public/Images/order.png" alt="order" srcset="" className='supportImg' title='Wanna See more then tab here..!'/> </Link> 
 
           </div>
 

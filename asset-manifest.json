@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Truck_Garage_India/static/css/main.56e60170.css",
+    "main.js": "/Truck_Garage_India/static/js/main.437d4d29.js",
+    "static/js/453.e0a4b241.chunk.js": "/Truck_Garage_India/static/js/453.e0a4b241.chunk.js",
+    "static/media/wallpaper3.jpg": "/Truck_Garage_India/static/media/wallpaper3.b1ff016cdefe747e6a52.jpg",
+    "static/media/wallpaper5.jpg": "/Truck_Garage_India/static/media/wallpaper5.8c77df7653318c91e0e4.jpg",
+    "index.html": "/Truck_Garage_India/index.html",
+    "main.56e60170.css.map": "/Truck_Garage_India/static/css/main.56e60170.css.map",
+    "main.437d4d29.js.map": "/Truck_Garage_India/static/js/main.437d4d29.js.map",
+    "453.e0a4b241.chunk.js.map": "/Truck_Garage_India/static/js/453.e0a4b241.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e60170.css",
+    "static/js/main.437d4d29.js"
+  ]
+}
